@@ -23,6 +23,10 @@ The Microsoft Azure Government Marketplace is a similar experience to public Azu
 
 The below provides a list of available images within the Azure Government Marketplace.  Some of the prebuilt images do include pay as you go licensing for specific software.  Please review <a href="http://azure.microsoft.com/pricing/details/virtual-machines/">Virtual Machine Pricing</a> page for more guidance and work with your Microsoft account team or reseller for Azure Government specific pricing.
 
+## Variations 
+*Third Party Marketplace Images are not currently supported in DoD Regions. 
+
+
 ## Images - Azure Resource Manager
 | Publisher | Image Name |
 | --- | --- |
